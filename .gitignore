@@ -1,0 +1,35 @@
+# Roo Code configuration
+.roomodes
+.kilocodemodes
+.kilocode
+AGENTS.md
+
+# Flutter
+**/build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.metadata
+*.lock
+
+# Android
+**/android/.gradle/
+**/android/local.properties
+**/android/key.properties
+
+# iOS
+**/ios/Pods/
+**/ios/.symlinks/
+
+# Windows
+**/windows/flutter/ephemeral/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
