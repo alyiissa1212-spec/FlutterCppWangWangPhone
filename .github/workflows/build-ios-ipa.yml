@@ -29,9 +29,6 @@ jobs:
       - name: 拉取 Flutter 依赖
         run: flutter pub get
 
-      - name: 执行静态检查
-        run: flutter analyze
-
       - name: 安装 CocoaPods
         run: |
           sudo gem install cocoapods

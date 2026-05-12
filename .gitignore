@@ -27,6 +27,10 @@ AGENTS.md
 # Windows
 **/windows/flutter/ephemeral/
 
+# Temporary
+.tmp/
+**/.flutter_tool_state
+
 # VS Code
 .vscode/
 
